@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/TiCovvidi/static/css/main.1e8c12c3.chunk.css",
-    "main.js": "/TiCovvidi/static/js/main.7658b68a.chunk.js",
-    "main.js.map": "/TiCovvidi/static/js/main.7658b68a.chunk.js.map",
+    "main.css": "/TiCovvidi/static/css/main.683b714e.chunk.css",
+    "main.js": "/TiCovvidi/static/js/main.cf70df75.chunk.js",
+    "main.js.map": "/TiCovvidi/static/js/main.cf70df75.chunk.js.map",
     "runtime-main.js": "/TiCovvidi/static/js/runtime-main.875fee7e.js",
     "runtime-main.js.map": "/TiCovvidi/static/js/runtime-main.875fee7e.js.map",
     "static/css/2.f5cbfdbe.chunk.css": "/TiCovvidi/static/css/2.f5cbfdbe.chunk.css",
@@ -16,7 +16,7 @@
     "static/js/5.a11727ba.chunk.js.map": "/TiCovvidi/static/js/5.a11727ba.chunk.js.map",
     "index.html": "/TiCovvidi/index.html",
     "static/css/2.f5cbfdbe.chunk.css.map": "/TiCovvidi/static/css/2.f5cbfdbe.chunk.css.map",
-    "static/css/main.1e8c12c3.chunk.css.map": "/TiCovvidi/static/css/main.1e8c12c3.chunk.css.map",
+    "static/css/main.683b714e.chunk.css.map": "/TiCovvidi/static/css/main.683b714e.chunk.css.map",
     "static/js/2.2833efdf.chunk.js.LICENSE.txt": "/TiCovvidi/static/js/2.2833efdf.chunk.js.LICENSE.txt",
     "static/js/3.99786f25.chunk.js.LICENSE.txt": "/TiCovvidi/static/js/3.99786f25.chunk.js.LICENSE.txt",
     "static/media/logo.7e749bc2.png": "/TiCovvidi/static/media/logo.7e749bc2.png"
@@ -25,7 +25,7 @@
     "static/js/runtime-main.875fee7e.js",
     "static/css/2.f5cbfdbe.chunk.css",
     "static/js/2.2833efdf.chunk.js",
-    "static/css/main.1e8c12c3.chunk.css",
-    "static/js/main.7658b68a.chunk.js"
+    "static/css/main.683b714e.chunk.css",
+    "static/js/main.cf70df75.chunk.js"
   ]
 }
