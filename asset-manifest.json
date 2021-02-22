@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/TiCovvidi/static/css/main.683b714e.chunk.css",
-    "main.js": "/TiCovvidi/static/js/main.cf70df75.chunk.js",
-    "main.js.map": "/TiCovvidi/static/js/main.cf70df75.chunk.js.map",
-    "runtime-main.js": "/TiCovvidi/static/js/runtime-main.875fee7e.js",
-    "runtime-main.js.map": "/TiCovvidi/static/js/runtime-main.875fee7e.js.map",
+    "main.js": "/TiCovvidi/static/js/main.4a366676.chunk.js",
+    "main.js.map": "/TiCovvidi/static/js/main.4a366676.chunk.js.map",
+    "runtime-main.js": "/TiCovvidi/static/js/runtime-main.62117a27.js",
+    "runtime-main.js.map": "/TiCovvidi/static/js/runtime-main.62117a27.js.map",
     "static/css/2.f5cbfdbe.chunk.css": "/TiCovvidi/static/css/2.f5cbfdbe.chunk.css",
-    "static/js/2.2833efdf.chunk.js": "/TiCovvidi/static/js/2.2833efdf.chunk.js",
-    "static/js/2.2833efdf.chunk.js.map": "/TiCovvidi/static/js/2.2833efdf.chunk.js.map",
-    "static/js/3.99786f25.chunk.js": "/TiCovvidi/static/js/3.99786f25.chunk.js",
-    "static/js/3.99786f25.chunk.js.map": "/TiCovvidi/static/js/3.99786f25.chunk.js.map",
-    "static/js/4.169b607e.chunk.js": "/TiCovvidi/static/js/4.169b607e.chunk.js",
-    "static/js/4.169b607e.chunk.js.map": "/TiCovvidi/static/js/4.169b607e.chunk.js.map",
-    "static/js/5.a11727ba.chunk.js": "/TiCovvidi/static/js/5.a11727ba.chunk.js",
-    "static/js/5.a11727ba.chunk.js.map": "/TiCovvidi/static/js/5.a11727ba.chunk.js.map",
+    "static/js/2.71d9f5ab.chunk.js": "/TiCovvidi/static/js/2.71d9f5ab.chunk.js",
+    "static/js/2.71d9f5ab.chunk.js.map": "/TiCovvidi/static/js/2.71d9f5ab.chunk.js.map",
+    "static/js/3.c91e9285.chunk.js": "/TiCovvidi/static/js/3.c91e9285.chunk.js",
+    "static/js/3.c91e9285.chunk.js.map": "/TiCovvidi/static/js/3.c91e9285.chunk.js.map",
+    "static/js/4.ab1d59d3.chunk.js": "/TiCovvidi/static/js/4.ab1d59d3.chunk.js",
+    "static/js/4.ab1d59d3.chunk.js.map": "/TiCovvidi/static/js/4.ab1d59d3.chunk.js.map",
+    "static/js/5.1bcb5ee0.chunk.js": "/TiCovvidi/static/js/5.1bcb5ee0.chunk.js",
+    "static/js/5.1bcb5ee0.chunk.js.map": "/TiCovvidi/static/js/5.1bcb5ee0.chunk.js.map",
     "index.html": "/TiCovvidi/index.html",
     "static/css/2.f5cbfdbe.chunk.css.map": "/TiCovvidi/static/css/2.f5cbfdbe.chunk.css.map",
     "static/css/main.683b714e.chunk.css.map": "/TiCovvidi/static/css/main.683b714e.chunk.css.map",
-    "static/js/2.2833efdf.chunk.js.LICENSE.txt": "/TiCovvidi/static/js/2.2833efdf.chunk.js.LICENSE.txt",
-    "static/js/3.99786f25.chunk.js.LICENSE.txt": "/TiCovvidi/static/js/3.99786f25.chunk.js.LICENSE.txt",
+    "static/js/2.71d9f5ab.chunk.js.LICENSE.txt": "/TiCovvidi/static/js/2.71d9f5ab.chunk.js.LICENSE.txt",
+    "static/js/3.c91e9285.chunk.js.LICENSE.txt": "/TiCovvidi/static/js/3.c91e9285.chunk.js.LICENSE.txt",
     "static/media/logo.7e749bc2.png": "/TiCovvidi/static/media/logo.7e749bc2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.875fee7e.js",
+    "static/js/runtime-main.62117a27.js",
     "static/css/2.f5cbfdbe.chunk.css",
-    "static/js/2.2833efdf.chunk.js",
+    "static/js/2.71d9f5ab.chunk.js",
     "static/css/main.683b714e.chunk.css",
-    "static/js/main.cf70df75.chunk.js"
+    "static/js/main.4a366676.chunk.js"
   ]
 }
