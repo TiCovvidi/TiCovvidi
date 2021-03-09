@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TiCovvidi/static/css/main.683b714e.chunk.css",
-    "main.js": "/TiCovvidi/static/js/main.3d7f4952.chunk.js",
-    "main.js.map": "/TiCovvidi/static/js/main.3d7f4952.chunk.js.map",
+    "main.css": "/TiCovvidi/static/css/main.287aca67.chunk.css",
+    "main.js": "/TiCovvidi/static/js/main.03699014.chunk.js",
+    "main.js.map": "/TiCovvidi/static/js/main.03699014.chunk.js.map",
     "runtime-main.js": "/TiCovvidi/static/js/runtime-main.b38f727e.js",
     "runtime-main.js.map": "/TiCovvidi/static/js/runtime-main.b38f727e.js.map",
     "static/css/2.f5cbfdbe.chunk.css": "/TiCovvidi/static/css/2.f5cbfdbe.chunk.css",
-    "static/js/2.c3b6770b.chunk.js": "/TiCovvidi/static/js/2.c3b6770b.chunk.js",
-    "static/js/2.c3b6770b.chunk.js.map": "/TiCovvidi/static/js/2.c3b6770b.chunk.js.map",
+    "static/js/2.9f1cccb0.chunk.js": "/TiCovvidi/static/js/2.9f1cccb0.chunk.js",
+    "static/js/2.9f1cccb0.chunk.js.map": "/TiCovvidi/static/js/2.9f1cccb0.chunk.js.map",
     "static/js/3.c91e9285.chunk.js": "/TiCovvidi/static/js/3.c91e9285.chunk.js",
     "static/js/3.c91e9285.chunk.js.map": "/TiCovvidi/static/js/3.c91e9285.chunk.js.map",
     "static/js/4.43c0355b.chunk.js": "/TiCovvidi/static/js/4.43c0355b.chunk.js",
@@ -16,16 +16,17 @@
     "static/js/5.1bcb5ee0.chunk.js.map": "/TiCovvidi/static/js/5.1bcb5ee0.chunk.js.map",
     "index.html": "/TiCovvidi/index.html",
     "static/css/2.f5cbfdbe.chunk.css.map": "/TiCovvidi/static/css/2.f5cbfdbe.chunk.css.map",
-    "static/css/main.683b714e.chunk.css.map": "/TiCovvidi/static/css/main.683b714e.chunk.css.map",
-    "static/js/2.c3b6770b.chunk.js.LICENSE.txt": "/TiCovvidi/static/js/2.c3b6770b.chunk.js.LICENSE.txt",
+    "static/css/main.287aca67.chunk.css.map": "/TiCovvidi/static/css/main.287aca67.chunk.css.map",
+    "static/js/2.9f1cccb0.chunk.js.LICENSE.txt": "/TiCovvidi/static/js/2.9f1cccb0.chunk.js.LICENSE.txt",
     "static/js/3.c91e9285.chunk.js.LICENSE.txt": "/TiCovvidi/static/js/3.c91e9285.chunk.js.LICENSE.txt",
+    "static/media/info.fac8f8fc.svg": "/TiCovvidi/static/media/info.fac8f8fc.svg",
     "static/media/logo.7e749bc2.png": "/TiCovvidi/static/media/logo.7e749bc2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b38f727e.js",
     "static/css/2.f5cbfdbe.chunk.css",
-    "static/js/2.c3b6770b.chunk.js",
-    "static/css/main.683b714e.chunk.css",
-    "static/js/main.3d7f4952.chunk.js"
+    "static/js/2.9f1cccb0.chunk.js",
+    "static/css/main.287aca67.chunk.css",
+    "static/js/main.03699014.chunk.js"
   ]
 }
